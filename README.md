@@ -33,7 +33,8 @@ This To-Do List application allows users to add, manage, and delete tasks. The p
 │
 └── README.md
 ```
-![output to do list](https://github.com/SnehaaAgrawal/To-do-list-/assets/138886062/bb85ba2c-2e5c-46d5-8fd7-0710a21f7165)
+
+![todo](https://github.com/ayush7879/to-do-project/assets/112853530/3942d274-b5bc-449d-acee-06b1f533c27f)
 
 
 ## Usage
